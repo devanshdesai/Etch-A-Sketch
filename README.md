@@ -1,4 +1,4 @@
-# Etch-A-Sketch
+# Etch A Sketch
 
 I created this after a JavaScript challenge I found online.
 
